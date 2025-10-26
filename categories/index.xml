@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Hey this is monique&#39;s website</title>
+        <link>https://example.com/categories/</link>
+        <description>Recent content in Categories on Hey this is monique&#39;s website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Readings</title>
+        <link>https://example.com/categories/readings/</link>
+        <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/readings/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Essay</title>
+        <link>https://example.com/categories/essay/</link>
+        <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/essay/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Research</title>
+        <link>https://example.com/categories/research/</link>
+        <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/research/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Video</title>
+        <link>https://example.com/categories/video/</link>
+        <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/video/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Activities</title>
+        <link>https://example.com/categories/activities/</link>
+        <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/activities/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Writings</title>
+        <link>https://example.com/categories/writings/</link>
+        <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/writings/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Drama</title>
+        <link>https://example.com/categories/drama/</link>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/drama/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Speech</title>
+        <link>https://example.com/categories/speech/</link>
+        <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/speech/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Hobbies</title>
+        <link>https://example.com/categories/hobbies/</link>
+        <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/hobbies/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Volunteer</title>
+        <link>https://example.com/categories/volunteer/</link>
+        <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/volunteer/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://example.com/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/test/</guid>
+        <description>&lt;img src="https://example.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

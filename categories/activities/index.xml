@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Activities on Hey this is monique&#39;s website</title>
+        <link>https://example.com/categories/activities/</link>
+        <description>Recent content in Activities on Hey this is monique&#39;s website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/activities/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Activites</title>
+        <link>https://example.com/p/activites/</link>
+        <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/activites/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://example.com/p/activites/r1.jpg&#34;
+	width=&#34;740&#34;
+	height=&#34;555&#34;
+	srcset=&#34;https://example.com/p/activites/r1_hu_cebf8d5890d7ade0.jpg 480w, https://example.com/p/activites/r1_hu_fd34b8c3582d7543.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2024.2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/p/activites/r2.jpg&#34;
+	width=&#34;1707&#34;
+	height=&#34;1280&#34;
+	srcset=&#34;https://example.com/p/activites/r2_hu_c2dffae3ad9ce4bd.jpg 480w, https://example.com/p/activites/r2_hu_b5acc429fd74b70c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2025.5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/p/activites/r3.jpg&#34;
+	width=&#34;1707&#34;
+	height=&#34;1279&#34;
+	srcset=&#34;https://example.com/p/activites/r3_hu_352a5990faed66e0.jpg 480w, https://example.com/p/activites/r3_hu_7c2faf9ffaf99d83.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2025.5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/p/activites/r4.jpg&#34;
+	width=&#34;1707&#34;
+	height=&#34;1280&#34;
+	srcset=&#34;https://example.com/p/activites/r4_hu_cc451dcd4e9c404f.jpg 480w, https://example.com/p/activites/r4_hu_426c4df5cfce2cf0.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2025.5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/p/activites/h1.jpg&#34;
+	width=&#34;1279&#34;
+	height=&#34;1706&#34;
+	srcset=&#34;https://example.com/p/activites/h1_hu_be4829fdcddd2bf6.jpg 480w, https://example.com/p/activites/h1_hu_b76383aeb4077123.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2025.6&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;74&#34;
+		data-flex-basis=&#34;179px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/p/activites/h2.jpg&#34;
+	width=&#34;1706&#34;
+	height=&#34;1279&#34;
+	srcset=&#34;https://example.com/p/activites/h2_hu_69243fc71fb126ba.jpg 480w, https://example.com/p/activites/h2_hu_4106e11c6d58d486.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2025.6&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
