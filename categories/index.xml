@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Monique&#39;s Blog</title>
+    <link>https://mlswebsite.github.io/categories/</link>
+    <description>Recent content in Categories on Monique&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mlswebsite.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading Writing</title>
+      <link>https://mlswebsite.github.io/categories/reading-writing/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mlswebsite.github.io/categories/reading-writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Academics</title>
+      <link>https://mlswebsite.github.io/categories/academics/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mlswebsite.github.io/categories/academics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://mlswebsite.github.io/categories/research/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mlswebsite.github.io/categories/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobbies</title>
+      <link>https://mlswebsite.github.io/categories/hobbies/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://mlswebsite.github.io/categories/hobbies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extracurriculars</title>
+      <link>https://mlswebsite.github.io/categories/extracurriculars/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://mlswebsite.github.io/categories/extracurriculars/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

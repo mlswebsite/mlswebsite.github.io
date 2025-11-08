@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IMMC Competition on Monique&#39;s Blog</title>
+    <link>https://mlswebsite.github.io/tags/immc-competition/</link>
+    <description>Recent content in IMMC Competition on Monique&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mlswebsite.github.io/tags/immc-competition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IMMC International 2024: Assessing Family Pet Ownership Based on Multi-Model Correlation Analysis</title>
+      <link>https://mlswebsite.github.io/post/immc24397795/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://mlswebsite.github.io/post/immc24397795/</guid>
+      <description>&lt;h2 id=&#34;1-abstract&#34;&gt;1. Abstract&lt;/h2&gt;&#xA;&lt;p&gt;During the long river of human history, humans and pets are inseparable. Pets are&#xA;treasured due to the joy they’ve brought owners and the companionship it brings, cre-&#xA;ating loving memories. The pet market has risen in the few years, especially during the&#xA;COVID, when the number of pet owners surged. At the same time, however, more and&#xA;more pets are getting abandoned, ending up stray and overcrowding the shelters, creat-&#xA;ing a big burden. People have long been confused of who’s suitable for raising pets, and&#xA;concerns have been increasing everywhere. To handle this situation, this article will ex-&#xA;plore a decision evaluating model that help determine what households are suitable for&#xA;owning a pet and forecasts future pet ownership.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IMMC First round: 国际赛（中华区）建模大赛（B 题）</title>
+      <link>https://mlswebsite.github.io/post/immc24199225/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://mlswebsite.github.io/post/immc24199225/</guid>
+      <description>&lt;h2 id=&#34;摘要&#34;&gt;摘要&lt;/h2&gt;&#xA;&lt;p&gt;自古至今，屋顶在人们的生活中不可缺，它不仅起到遮风、挡雨、防晒、保温、隔热的作用，同时还代表着家庭和睦、民生安全，更在历史中象征着权力地位。屋顶所处地区的气候特征影响屋顶屋顶结构，人们的品味、历史的进程，也在潜移默化地作用于屋顶结构样式的演进。不同地区的屋顶样式、曲度、坡度各不相同，每一种屋顶都有其独特的优势，亦存在缺陷。长久以来人们试图找到最适合某一地区的最优屋顶配置，但由于环境、经济、人文的多种因素，此问题很难完美解答。因此，本文根据题目中的三个问题，试图找到不同地区屋顶的最佳配置。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
